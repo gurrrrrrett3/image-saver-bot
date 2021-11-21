@@ -1,0 +1,24 @@
+{
+  "name": "image-saver-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurrrrrrett3/image-saver-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurrrrrrett3/image-saver-bot/issues"
+  },
+  "homepage": "https://github.com/gurrrrrrett3/image-saver-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "node-fetch": "2.1.0"
+  }
+}
